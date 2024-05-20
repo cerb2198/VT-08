@@ -1,0 +1,69 @@
+# Node modules
+node_modules/
+
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Environment variables
+.env
+
+# Directories for test coverage reports
+coverage/
+
+# Temporary folders
+tmp/
+temp/
+
+# Build directories
+build/
+dist/
+
+# Dependency directories
+jspm_packages/
+
+# Optional npm cache directory
+.npm
+
+# Optional eslint cache
+.eslintcache
+
+# Optional REPL history
+.node_repl_history
+
+# Output of 'npm pack'
+*.tgz
+
+# Yarn Integrity file
+.yarn-integrity
+
+# dotenv environment variable files
+.env.test
+.env.production
+
+# PM2 Logs
+.pm2/logs
+
+# TypeScript cache
+*.tsbuildinfo
+
+# VS Code settings
+.vscode/
+
+# MacOS files
+.DS_Store
+
+# Windows file
+Thumbs.db
+
+# Package lock files
+package-lock.json
+yarn.lock
+
+# Misc
+*.pid
+*.seed
+*.pid.lock
